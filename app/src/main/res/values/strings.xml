@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Education</string>
+
+    <string name="welcome">Welcome to Brain Teaser By Zulfa</string>
+    <string name="question1">How many letters of the word FAINTS, will their order in the word and that
+        when the letters are arranged in the alphabetical order, remain the same?</string>
+    <string name="question2"> Three of the following five are alike in a certain way and hence form a group.
+        Which one does not belong to the group?</string>
+    <string name="check52">52</string>
+    <string name="check70">70</string>
+    <string name="check48">48</string>
+    <string name="question3">In a certain code GARNISH is written as RGAINHS. 
+        How will GENIOUS be written in that code?</string>
+    <string name="nego">NEGOISU</string>
+    <string name="ngeo">NGEOISU</string>
+    <string name="nge">NGESUOI</string>
+    <string name="neg">NEGSUOI</string>
+<string name="question4">If ‘AND’ is written as ‘EQF’ and ‘THE’ as ‘XKG’ 
+    then how will ‘COM’ be written?</string>
+    <string name="hr">HRO</string>
+    <string name="gr">GRO</string>
+    <string name="gq">GQO</string>
+    <string name="question5">In a certain code INKER is written as GLLGT and GLIDE is written as EJJFG. 
+        How will JINKS be written in that code?</string>
+    <string name="hg">HGOMU</string>
+    <string name="gf"> GFOMU</string>
+    <string name="ho">HGOGH</string>
+    
+
+</resources>
